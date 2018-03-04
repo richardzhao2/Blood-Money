@@ -1,4 +1,4 @@
-Welcome to PAYDAY 2D, a socket based multiplayer game for 2 players.
+Welcome to Blood Money, a socket based multiplayer game for 2 players.
 
 To play, run masterclientfinal.py in Python 3.6 or later
 
